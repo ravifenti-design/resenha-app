@@ -1,11 +1,11 @@
 # Zunex para computador
 
-App do [Zunex](https://resenha-voz.vercel.app): servidores com voz, chat, câmera e tela compartilhada.
+App do [Zunex](https://zunexapp.vercel.app): servidores com voz, chat, câmera e tela compartilhada.
 
 ## Baixar
 
-- **Windows:** [Zunex-Windows.exe](https://github.com/ravifenti-design/resenha-app/releases/latest/download/Zunex-Windows.exe)
-- **Mac (Intel e Apple):** [Zunex-Mac.dmg](https://github.com/ravifenti-design/resenha-app/releases/latest/download/Zunex-Mac.dmg)
+- **Windows:** [Zunex-Windows.exe](https://github.com/ravifenti-design/zunex-app/releases/latest/download/Zunex-Windows.exe)
+- **Mac (Intel e Apple):** [Zunex-Mac.dmg](https://github.com/ravifenti-design/zunex-app/releases/latest/download/Zunex-Mac.dmg)
 
 ## Instalar
 
